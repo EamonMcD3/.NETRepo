@@ -1,0 +1,15 @@
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/bin/Debug/net6.0/.netrepo
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/bin/Debug/net6.0/.netrepo.deps.json
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/bin/Debug/net6.0/.netrepo.runtimeconfig.json
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/bin/Debug/net6.0/.netrepo.dll
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/bin/Debug/net6.0/.netrepo.pdb
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.csproj.AssemblyReference.cache
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.AssemblyInfoInputs.cache
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.AssemblyInfo.cs
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.csproj.CoreCompileInputs.cache
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.dll
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/refint/.netrepo.dll
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.pdb
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/.netrepo.genruntimeconfig.cache
+/Users/eamonmcd/Desktop/LapAttempt2/.netrepo/obj/Debug/net6.0/ref/.netrepo.dll
